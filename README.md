@@ -1,2 +1,3 @@
-# til
-A collection of things I've learned
+# Today I Learned
+
+A collection of things I've learned.
